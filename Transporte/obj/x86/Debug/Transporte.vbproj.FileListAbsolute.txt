@@ -1,0 +1,106 @@
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Transporte\Transporte\bin\Debug\Transporte.exe
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Transporte\Transporte\bin\Debug\Transporte.pdb
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Transporte\Transporte\bin\Debug\Transporte.xml
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.Resources.resources
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Transporte.exe
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Transporte.xml
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Transporte.pdb
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\GenerateResource-ResGen.read.7.tlog
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmVentaPasaje.resources
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.FrmViajes.resources
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmListadoViajes.resources
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmDatosBoleto.resources
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmFechaRuta.resources
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmIngUser.resources
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmLogeo.resources
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.MDIPrincipal.resources
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmRutasHorarios.resources
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmAsignacion1.resources
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmAsignacion2.resources
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmTransporte.resources
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Transporte.exe
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Transporte.xml
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Transporte.pdb
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\bin\Debug\Transporte.exe
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\bin\Debug\Transporte.pdb
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\bin\Debug\Transporte.xml
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmFechaRuta.resources
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmIngUser.resources
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmListadoViajes.resources
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmLogeo.resources
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmRutasHorarios.resources
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmTransporte.resources
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmVentaPasaje.resources
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.FrmViajes.resources
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.MDIPrincipal.resources
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.Resources.resources
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\GenerateResource-ResGen.read.7.tlog
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmAsientos.resources
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.FrmEleccion.resources
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\bin\Debug\Transporte.exe.config
+D:\Transporte\Transporte\bin\Debug\Transporte.exe.config
+D:\Transporte\Transporte\obj\x86\Debug\Transporte.exe
+D:\Transporte\Transporte\obj\x86\Debug\Transporte.xml
+D:\Transporte\Transporte\obj\x86\Debug\Transporte.pdb
+D:\Transporte\Transporte\bin\Debug\Transporte.exe
+D:\Transporte\Transporte\bin\Debug\Transporte.pdb
+D:\Transporte\Transporte\bin\Debug\Transporte.xml
+D:\Transporte\Transporte\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Transporte\Transporte\obj\x86\Debug\Pasajes.frmAsientos.resources
+D:\Transporte\Transporte\obj\x86\Debug\Pasajes.FrmEleccion.resources
+D:\Transporte\Transporte\obj\x86\Debug\Pasajes.frmFechaRuta.resources
+D:\Transporte\Transporte\obj\x86\Debug\Pasajes.frmIngUser.resources
+D:\Transporte\Transporte\obj\x86\Debug\Pasajes.frmListadoViajes.resources
+D:\Transporte\Transporte\obj\x86\Debug\Pasajes.frmLogeo.resources
+D:\Transporte\Transporte\obj\x86\Debug\Pasajes.frmRutasHorarios.resources
+D:\Transporte\Transporte\obj\x86\Debug\Pasajes.frmTransporte.resources
+D:\Transporte\Transporte\obj\x86\Debug\Pasajes.frmVentaPasaje.resources
+D:\Transporte\Transporte\obj\x86\Debug\Pasajes.FrmViajes.resources
+D:\Transporte\Transporte\obj\x86\Debug\Pasajes.MDIPrincipal.resources
+D:\Transporte\Transporte\obj\x86\Debug\Pasajes.Resources.resources
+D:\Transporte\Transporte\obj\x86\Debug\Pasajes.frmManifiesto.resources
+D:\Transporte\Transporte\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Transporte\Transporte\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+D:\Transporte\Transporte\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+D:\Transporte\Transporte\obj\x86\Debug\GenerateResource-ResGen.read.7.tlog
+D:\Transporte\Transporte\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Transporte\Transporte\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Transporte\Transporte\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\bin\Debug\Transporte.exe.config
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Transporte.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Transporte.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Transporte.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\bin\Debug\Transporte.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\bin\Debug\Transporte.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\bin\Debug\Transporte.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmAsientos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.FrmConductores.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.FrmEleccion.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmIngUser.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmLogeo.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmVentaPasaje.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.FrmViajes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.MDIPrincipal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmManifiesto.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmBuses.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmCargaAs.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.FrmListaViajes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.FrmReporte.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmFotoUnidad.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.FrmTerra.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.frmAbout.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\Pasajes.FrmRepGral.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Transporte\Transporte\obj\x86\Debug\GenerateResource.write.199.tlog
